@@ -1,4 +1,4 @@
-package com.programming.java;
+package com.programming.java.producer.consumer;
 
 import java.util.Queue;
 import java.util.Random;
